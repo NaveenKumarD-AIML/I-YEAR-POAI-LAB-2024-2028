@@ -1,6 +1,8 @@
-# Mohamed ashwaq
-# 241501113
-# mohamedashwaq.y.2024.aiml@rajalakshmi.edu.in
+#Naveen kumar D
+#241501128
+#naveenkuamr.d.2024.aiml@rajalakshmi.edu.in
+
+
 def dfs(graph, node, visited):
     if node not in visited:
         visited.append(node)
