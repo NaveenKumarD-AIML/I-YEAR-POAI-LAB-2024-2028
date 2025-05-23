@@ -18,7 +18,7 @@ I'm [Naveen Kumar D](#) (241501128) from AI/ML "FB".
 - [Experiment 5B - simple clause](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-05B)
 - [Experiment 6 - unification and resolution algorithm](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-06)
 - [Experiment 7 - Backward chaining](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-07)
-- [Experiment 8 - Forward chaining](#)
+- [Experiment 8 - Forward chaining](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-08)
 - [Experiment 9 - Blocks world program](#)
 - [Experiment 10 - Fuzzy inference system](#)
 
