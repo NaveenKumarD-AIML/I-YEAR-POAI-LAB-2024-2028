@@ -14,7 +14,7 @@ I'm [Naveen Kumar D](#) (241501128) from AI/ML "FB".
 - [Experiment 2 - DFS using Graph](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-02)
 - [Experiment 3 - Tic Tac Toe using MinMax](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-03)
 - [Experiment 4 - A* Search Algorithm](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-04)
-- [Experiment 5 - prolog minimax algorithm](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-05A)
+- [Experiment 5 - prolog minimax algorithm](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-05)
 - [Experiment 6 - unification and resolution algorithm](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-06)
 - [Experiment 7 - Backward chaining](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-07)
 - [Experiment 8 - Forward chaining](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-08)
