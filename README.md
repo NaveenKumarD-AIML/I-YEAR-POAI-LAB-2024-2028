@@ -10,7 +10,7 @@ I'm [Naveen Kumar D](#) (241501128) from AI/ML "FB".
 
 ## Experiments:
 
-- [Experiment 1 - 8 Queens Problem](#)
+- [Experiment 1 - 8 Queens Problem](https://github.com/NaveenKumarD-AIML/I-YEAR-POAI-LAB-2024-2028/blob/main/EXP-01)
 - [Experiment 2 - DFS using Graph](#)
 - [Experiment 3 - Tic Tac Toe using MinMax](#)
 - [Experiment 4 - A* Search Algorithm](#)
